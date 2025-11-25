@@ -19,5 +19,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Reusable Components
 
 1. Buttons
-2. Filter box
+2. Dropdown box
 3. Search box
